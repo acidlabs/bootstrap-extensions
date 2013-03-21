@@ -8,7 +8,7 @@ Some CSS classes which extend [Bootstrap][bootstrap].
 Conventions
 -----------
 
-Following the Bootstrap conventions, all extension classes are named upon their _base_ class name. In order to avoid any conflict in the future, I also prepend the custom classes names with `custom`.
+Following the Bootstrap conventions, all extension classes are named upon their _base_ class name. In order to avoid any conflict in the future, we also prepend the custom classes names with `custom`.
 
 **Example**: `.custom-form-actions-bordered` extends `.form-actions` and should be used as follow:
 
@@ -23,7 +23,7 @@ See more [documentation and examples][pages] at the project pages.
 Credits
 -------
 
-Some of these extensions were crafted during my work time at [Acid Labs][acidlabs]. Thanks for that!
+Most of these extensions were crafted during our work time at [Acid Labs][acidlabs]. Thanks for that!
 
   [acidlabs]: https://github.com/acidlabs
 
