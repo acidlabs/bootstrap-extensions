@@ -11,7 +11,7 @@ cd bootstrap-extensions
 git checkout gh-pages
 ```
 
-In order to get a development server up quickly, installing the [Jekyll][jekyll] gem is required. To avoid messing up with you system gems, I use [RVM][rvm]; and to never forget a dependency, I recommend using [Bundler][bundler].
+In order to get a development server up quickly, installing the [Jekyll][jekyll] gem is required. To avoid messing up with our system gems, we use [RVM][rvm]; and to never forget a dependency, we recommend using [Bundler][bundler].
 
   [jekyll]:https://github.com/mojombo/jekyll
   [rvm]: https://rvm.io
@@ -39,7 +39,7 @@ You server is up at [http://localhost:4000](http://localhost:4000).
 
 **Important**: You shall commit an up-to-date `stylesheets/styles.css` file along with `stylesheets/styles.less`.
 
-Jekyll doesn't compile the LESS files, if you don't provide the up-to-date CSS your changes won't appear on the Github pages, the CSS file version won't match the LESS file version and I'll be sad.
+Jekyll doesn't compile the LESS files, if you don't provide the up-to-date CSS your changes won't appear on the Github pages, the CSS file version won't match the LESS file version and we all will be sad.
 
 ```bash
 # Before committing your changes...
